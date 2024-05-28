@@ -45,4 +45,4 @@ This project scrapes Reddit posts from specific subreddits related to Samsung, a
     *   Word cloud of common terms (excluding "Samsung" and "phone").
     *   Pie chart of word frequencies.
     *   Histograms and scatter plot of sentiment distributions.
- 
+
