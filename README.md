@@ -24,13 +24,13 @@ This project scrapes Reddit posts from specific subreddits related to Samsung, a
 
 1. **Scrape Data:**
 
-   `python scrape_reddit.py`
+   `python scraper.py`
 
    This will collect Reddit posts from specified subreddits and save them to `reddit_posts.csv`.
 
 2. **Analyze and Visualize:**
 
-   `python sentiment_analysis.py`
+   `python sentiment-analysis.py`
 
    This script performs sentiment analysis on the scraped data, generates visualizations, and saves results to `reddit_posts_with_sentiment.csv`.
 

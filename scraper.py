@@ -113,7 +113,6 @@ def save_to_csv(posts, filename):
     print(f"Data saved to '{filename}'")
 
 
-
 subreddits = ['samsunggalaxy', 'oneui', 'smartphones']
 query = 'Samsung'
 
